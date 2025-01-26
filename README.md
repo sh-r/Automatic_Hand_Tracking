@@ -9,3 +9,5 @@ Positive points: From Part 1
 Negative points: 
   1. Points around positive points but within a certain threshold and not part of another hand object.
   2. Other randomly selected points from image that are not part of hand object.
+
+Demo 1 and 2 are some sample videos obtained using the above code and models.
